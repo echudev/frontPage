@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [](https://echucode.github.io/frontPage)
+- Live Site URL: https://echucode.github.io/frontPage
 
 ### Built with
 
